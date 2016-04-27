@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaabbadida03dozyuoft_0005.png"; bbox 0 0 2127 2905; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 320 966 1551 1023">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 320 966 1551 1023">
+     <span class='ocr_line' id='line_1_1' title="bbox 320 966 1551 1023; baseline 0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 320 966 884 1019; x_wconf 77' lang='lat' dir='ltr'>SGR1PTOR1JM</span> <span class='ocrx_word' id='word_1_2' title='bbox 948 968 1295 1021; x_wconf 74' lang='lat' dir='ltr'><strong>ARABUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1361 971 1551 1023; x_wconf 72' lang='lat' dir='ltr'><strong>Loci</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 557 1383 1315 1443">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 557 1383 1315 1443">
+     <span class='ocr_line' id='line_1_2' title="bbox 557 1383 1315 1443; baseline 0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 557 1383 1315 1443; x_wconf 75' lang='lat' dir='ltr'><strong>ARRADIDIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
